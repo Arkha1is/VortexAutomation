@@ -1,10 +1,10 @@
+# VortexAutomation
+Small py script to automate the process of downloading mod Collections from Nexus Mods through the Vortex Mod Manager.
+
 ## Acknowledgments
 - Original Author: Gurpreet ~ Singh ([@FlorianNaef](https://github.com/FlorianNaef))
   The Original project can be found [here](https://github.com/Gurpreet06/Wifi-Crack)
 - Updated by: Arkhalis ([@Arkha1is](https://github.com/Arkha1is))
-
-# VortexAutomation
-Small py script to automate the process of downloading mod Collections from Nexus Mods through the Vortex Mod Manager.
 
 ## Dependencies
 A requirements file is included. The best way to automate the web-browser part of the download is with user scripts. 
