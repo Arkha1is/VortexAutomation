@@ -1,0 +1,9 @@
+keyboard
+numpy
+pyautogui
+Pillow
+pymsgbox
+PyTweening
+pygetwindow
+win32api
+win32con
